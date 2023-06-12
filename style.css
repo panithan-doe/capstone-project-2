@@ -1,0 +1,40 @@
+.background {
+    position: absolute;
+    z-index: -1;
+}
+
+.profile-img {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.text {
+    color: #7895B2;
+    
+}
+
+.profile-text {
+    text-align: justify;
+}
+
+.email-text {
+    color: #7895B2;
+}
+
+.header {
+    background-color: #F5EFE6;
+    padding-top: 100px;
+    padding-bottom: 180px;
+}
+
+.footer {
+    background-color: #F5EFE6;
+}
+
+.footer-a {
+    color: #b7a16e;
+}
+
+.footer-a:hover {
+    color: #f5d58c;
+}
